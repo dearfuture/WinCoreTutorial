@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/5/19 18:35:43。
+     1>项目“d:\Projects\Advanced_25-1\Advanced_25-1.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\Advanced_25-1.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Advanced_25-1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Advanced_25-1.cpp"
+         Advanced_25-1.cpp
+     1>d:\projects\advanced_25-1\advanced_25-1.cpp(1): fatal error C1083: 无法打开预编译头文件:“Debug\Advanced_25-1.pch”: No such file or directory
+     1>已完成生成项目“d:\Projects\Advanced_25-1\Advanced_25-1.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.06

@@ -1,0 +1,22 @@
+﻿生成启动时间为 2018/8/1 20:44:27。
+     1>项目“I:\Other_Syn\Test_Dlg\Test_Dlg.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Test_Dlg.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         Test_Dlg.vcxproj -> I:\Other_Syn\Debug\Test_Dlg.exe
+       Manifest:
+         所有输出均为最新。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Test_Dlg.unsuccessfulbuild”。
+         正在对“Debug\Test_Dlg.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“I:\Other_Syn\Test_Dlg\Test_Dlg.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.26

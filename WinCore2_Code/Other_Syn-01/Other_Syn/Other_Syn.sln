@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WaitForInputIdle", "Other_Syn\Other_Syn.vcxproj", "{CAF7F61C-B593-4445-A6E9-376033385874}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test_Dlg", "Test_Dlg\Test_Dlg.vcxproj", "{08234C79-B482-49CA-A7BB-FD750189FC4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF7F61C-B593-4445-A6E9-376033385874}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CAF7F61C-B593-4445-A6E9-376033385874}.Debug|Win32.Build.0 = Debug|Win32
+		{CAF7F61C-B593-4445-A6E9-376033385874}.Release|Win32.ActiveCfg = Release|Win32
+		{CAF7F61C-B593-4445-A6E9-376033385874}.Release|Win32.Build.0 = Release|Win32
+		{08234C79-B482-49CA-A7BB-FD750189FC4E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{08234C79-B482-49CA-A7BB-FD750189FC4E}.Debug|Win32.Build.0 = Debug|Win32
+		{08234C79-B482-49CA-A7BB-FD750189FC4E}.Release|Win32.ActiveCfg = Release|Win32
+		{08234C79-B482-49CA-A7BB-FD750189FC4E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
